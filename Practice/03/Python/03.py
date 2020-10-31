@@ -1,0 +1,7 @@
+a = int(input("Введите переменную a"))
+b = int(input("Введите переменную b"))
+print("a + b = ",a + b)
+print("a - b = ",a - b)
+print("a * b = ",a * b)
+print("a / b = ",a / b)
+input("\n\nPress the enter key to exit.")

@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  02.cpp
+c:\programming\practice\02\c++\02\02\02.cpp(8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  02.vcxproj -> C:\Programming\Practice\02\C++\02\Debug\02.exe
